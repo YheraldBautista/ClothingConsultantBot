@@ -1,4 +1,4 @@
-# VoiceAssistance
+# Clothing Consultant Bot
 
 The clothing consultant robot.
 
